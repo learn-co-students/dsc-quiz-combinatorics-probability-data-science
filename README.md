@@ -23,7 +23,9 @@ Select all correct answers.
 
 ?: What is the green shaded region in the Venn diagram image below equal to? 
 
+<p align="center">
 <img src="images/venn_diagram.png" width="500">
+</p>
 
 (X) The intersection of A and B
 ( ) The union of A with the complement of B
