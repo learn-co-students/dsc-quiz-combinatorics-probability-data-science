@@ -21,9 +21,9 @@ Select all correct answers.
 [ ] `a^b`
 [X] `a.union(b)`
 
-?: What is the shaded region in the Venn diagram image below equal to? 
+?: What is the green shaded region in the Venn diagram image below equal to? 
 
-[insert Venn diagram image]
+<img src="images/venn_diagram.png" width="500">
 
 (X) The intersection of A and B
 ( ) The union of A with the complement of B
