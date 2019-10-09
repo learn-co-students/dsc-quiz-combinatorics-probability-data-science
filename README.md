@@ -10,6 +10,7 @@ While we recommend using Python to find the answers to these questions, it is no
 using permutations or combinations?
 
 ( ) Combinations
+
 (X) Permutations
 
 ?: How would you compute the union of sets `a = {2, 4, 6}` and `b = {1, 3, 5}` using Python? 
@@ -17,8 +18,11 @@ using permutations or combinations?
 Select all correct answers.
 
 [X] `a|b`
+
 [ ] `a&b`
+
 [ ] `a^b`
+
 [X] `a.union(b)`
 
 ?: What is the green shaded region in the Venn diagram image below equal to? 
@@ -28,8 +32,11 @@ Select all correct answers.
 </p>
 
 (X) The intersection of A and B
+
 ( ) The union of A with the complement of B
+
 ( ) The union of A and B
+
 ( ) B
 
 ?: You have surveyed 100 individuals and asked them which type of food they enjoy best.
@@ -45,8 +52,11 @@ The following two-way table displays data for the sample of individuals who resp
 What is the probability of liking sweet food given the respondent was an adult, P(sweet|adult)? 
 
 (X) 3/7
+
 ( ) 6/25
+
 ( ) 4/7
+
 ( ) 16/25
 
 ?: Imagine you have two bags: one has 7 red balls and 3 green ones, the other has 4 red balls and 6 green ones.
@@ -56,8 +66,11 @@ pick a random ball from the second bag.
 What is the probability that you pick a green ball?
 
 ( ) 3/10
+
 ( ) 3/20
+
 (X) 9/20
+
 ( ) 11/20
 
 ???
